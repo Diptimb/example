@@ -4,10 +4,10 @@ public class Anonymous {
 	public static void main(String[] args) {
 		
 	
-//Demo d=()-> {
-//	System.out.println("name");
-//
-//};
+Demo d=()-> {
+	System.out.println("name");
+
+};
 		
 		Demo d=new Demo() {
  			@Override
